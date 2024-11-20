@@ -1,1 +1,2 @@
 Signup feature initial implementation
+Enhanced signup with email verification
