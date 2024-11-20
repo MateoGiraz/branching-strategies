@@ -2,3 +2,4 @@ Initial setup for fast iterations
 Add basic login functionality
 Quick fix for login error
 Add basic signup functionality
+Optimize login performance
