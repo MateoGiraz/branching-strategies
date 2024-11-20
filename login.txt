@@ -1,1 +1,2 @@
 Login feature initial implementation
+Added login validation logic
